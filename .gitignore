@@ -1,0 +1,41 @@
+
+# File generati automaticamente da Android Studio
+.idea/
+.gradle/
+build/
+
+# File specifici del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Cache dei dipendenze e log di Gradle
+*.iml
+.gradle/
+local.properties
+*.log
+.gradle/caches/
+.gradle/gradle-app.setting
+*.lock
+
+# File specifici del sistema operativo e cache del sistema
+*.class
+*.swp
+*.swo
+
+# Cartelle generiche di build
+/build/
+
+# File di configurazione specifici dell'utente
+*.bak
+*.orig
+*~
+*.swp
+*.tmp
+*.temp
+
+# File di configurazione IDE
+.vscode/
+.settings/
+
+app
+!auth_module
